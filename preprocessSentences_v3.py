@@ -183,6 +183,7 @@ def main(argv):
   print ('Runtime:', str(time.time() - start_time))
 
 if __name__ == "__main__":
+  ntlk.download('stopwords')
   main(sys.argv[1:])
 
  
