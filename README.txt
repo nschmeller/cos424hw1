@@ -1,6 +1,4 @@
-----------------------------------------------
-COS 424: Sentiment Analysis Task (Spring 2018)
-----------------------------------------------
+
 
 This directory comprises the following files
 
@@ -33,5 +31,3 @@ script),
 sample, 'out_classes_*.txt', and
 	- A 'bag of words' featurized representation of each sentence in 
 the training set, 'out_bag_of_words_*.csv'
-
-----------------------------------------------
